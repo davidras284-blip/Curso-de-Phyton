@@ -1,9 +1,8 @@
 print("hola_mundo")
-# This is a simple Python script that prints "hola_mundo" to the console.   
-# It serves as a basic example of how to output text in Python.
-# To run this script, save it as hola_mundo.py and execute it using a Python interpreter.
-# Example:
-# python hola_mundo.py
-# Expected Output:
-# hola_mundo
-# Enjoy coding!
+print("Ahora me pondré a hacer sumas")  
+num1 = float(4)
+num2 = float(8)   
+print(f"Suma:{num1+num2}")
+print(f"Resta:{num1-num2}")
+print(f"Multiplicacion:{num1*num2}")
+print(f"Division:{num1/num2}")
