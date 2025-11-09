@@ -1,0 +1,7 @@
+print("Ahora me pondré a hacer sumas")  
+num1 = float(input("ingresa primer valor"))
+num2 = float(input("ingresa segundo valor"))   
+print(f"Suma:{num1+num2}")
+print(f"Resta:{num1-num2}")
+print(f"Multiplicacion:{num1*num2}")
+print(f"Division:{num1/num2}")

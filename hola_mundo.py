@@ -1,8 +1,1 @@
 print("hola_mundo")
-print("Ahora me pondré a hacer sumas")  
-num1 = float(4)
-num2 = float(8)   
-print(f"Suma:{num1+num2}")
-print(f"Resta:{num1-num2}")
-print(f"Multiplicacion:{num1*num2}")
-print(f"Division:{num1/num2}")
